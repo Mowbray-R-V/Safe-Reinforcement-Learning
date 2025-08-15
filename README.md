@@ -14,8 +14,9 @@ A Review of Safe Reinforcement Learning: Methods, Theories, and Applications - I
 
 
 # Safe-Model free RL 
-Embedding Safety into RL: A New Take on Trust Region Methods, ICML 2025 (C-TRPO)    
-Safe Off-Policy Deep Reinforcement Learning Algorithm for Volt-VAR Control in Power Distribution Systems - IEEE TSG, 2020 (SAC-lagrangian)     
-Learning to Walk via Deep Reinforcement Learning (SAC-lagrangian)    
+1. Embedding Safety into RL: A New Take on Trust Region Methods, ICML 2025 (C-TRPO)    
+2. Safe Off-Policy Deep Reinforcement Learning Algorithm for Volt-VAR Control in Power Distribution Systems - IEEE TSG, 2020 (SAC-lagrangian)     
+3. Learning to Walk via Deep Reinforcement Learning (SAC-lagrangian)    
+4. Revisiting Safe Exploration in Safe Reinforcement learning
 
 
