@@ -1,3 +1,9 @@
+# Tutorial
+
+RLSS 2023 - Safe Reinforcement Learning - Felix Berkenkamp :  https://www.youtube.com/watch?v=HhTBUHiZWPE    
+Safe RL 2022: https://saferl.online/2022/
+
+
 
 
 # Safe-RL Survey    
