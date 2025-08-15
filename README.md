@@ -7,5 +7,5 @@ A Review of Safe Reinforcement Learning: Methods, Theories, and Applications - I
 
 
 
-# Safe- Model free RL 
+# Safe-Model free RL 
 Embedding Safety into RL: A New Take on Trust Region Methods, ICML 2025 (C-TRPO)    
